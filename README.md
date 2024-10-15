@@ -3,7 +3,7 @@
 
 #### Why, you certainly have a slightly off putting username, you say?
 
-Facts is facts, no doubt. But hopefully you can take some solice in its origin story involving AIM  (RIP).
+Facts is facts, no doubt. But hopefully you can take some solace in its origin story involving AIM  (RIP).
 
 Pardon all the dust and cob webs, and apologies in advance if the latest version of `node` gives ya a hell of a time if you attempt to build some of these projects.. no warranty is expressed or implied, but I do sincerely hope anyone might find some of these chunks of code helpful in their own development!
 
